@@ -1,0 +1,19 @@
+{
+  "name": "12-materials",
+  "version": "1.0.0",
+  "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "host": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.162.0"
+  },
+  "devDependencies": {}
+}
